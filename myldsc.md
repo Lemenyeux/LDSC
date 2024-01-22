@@ -1,4 +1,4 @@
-![image](https://github.com/Lemenyeux/LDSC/assets/87812974/61a6f4d7-d783-4309-ad47-08d7aae2895b)![image](https://github.com/Lemenyeux/LDSC/assets/87812974/5f553996-ed1e-455f-93b3-fe135cdb4347)# Download LDSC data
+# Download LDSC data
 ```
 cd /mnt/ldsc/myldsc
 
